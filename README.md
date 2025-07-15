@@ -6,7 +6,7 @@
   - Delete images by pressing the red X at the top right when your mouse is hovering over them.
   - Supports transparency. Give him a cool hat for me.
 - **Added the ability to color on the overlay**
-  - Therapy cost money. Color mode is free. Comes with a functioning color picker and eraser. Make art... or at least something colorful.
+  - Therapy cost money. Color mode is free. Comes with a functioning color picker and eraser.
 - **You may now change the background color for chroma keying**
   - I really have no clue why'd you need to do this, but I added it anyway.
 - **Took me a long time, and by that I mean like five hours. Gonna take a nap in a minute here.**
